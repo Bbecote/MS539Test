@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp1\\WinFormsApp1.csproj",
-        "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectName": "WinFormsApp2",
+        "projectPath": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\brian\\Desktop\\test2\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
